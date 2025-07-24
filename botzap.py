@@ -9,7 +9,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMar
 
 # ============== Налаштування =====================
 API_TOKEN = "8194805573:AAEMzVKN3UW78NG723YKIuKdwn9M2rcUNOI"   # встав свій токен Telegram
-SERVICE_ACCOUNT_FILE = "botzap-466905-c28e8b2e744c.json"  # назва твого JSON-файлу
+SERVICE_ACCOUNT_FILE = "botzapkey.json"  # назва твого JSON-файлу
 GOOGLE_SHEET_ID = "602608749"                # ID твоєї Google таблиці
 NOTIFY_USERS = [602608749, 5321616837]  # Telegram ID користувачів, яким надсилати повідомлення про новий запис
 
